@@ -63,7 +63,7 @@ Setting up Wireshark manually can be time-consuming. This ready-to-use profile:
 
 Here’s a preview of the TCP Wireshark Profile in action:
 
-![TCP Profile Screenshot](images/tcp-profile-preview.png)
+![TCP Profile Screenshot](Wireshark.png)
 
 > 🔧 *Shows custom columns, color rules for flags like SYN, ACK, RST, and efficient TCP stream view for deep analysis.*
 
