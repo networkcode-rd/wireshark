@@ -1,49 +1,79 @@
-🛠️ TCP Profile for Wireshark – Optimized for Network & Security Engineers
-Welcome to the TCP Profile for Wireshark – a customized Wireshark configuration that makes TCP packet analysis cleaner, faster, and more insightful for network and security professionals.
+# 🛠️ TCP Profile for Wireshark – Optimized for Network & Security Engineers
 
+Welcome to the **TCP Profile for Wireshark** – a customized Wireshark configuration that makes TCP packet analysis cleaner, faster, and more insightful for network and security professionals.
 
+---
 
+## 🔍 What is This?
 
-📥 How to Use
-Download or Clone this repository.
+This repository contains a Wireshark profile tailored for **TCP packet analysis**, designed to:
 
-Locate your Wireshark profiles directory:
+- Highlight key TCP flags and fields
+- Improve readability of TCP sessions
+- Speed up troubleshooting with pre-configured display filters, coloring rules, and column setups
 
-Linux/macOS: ~/.config/wireshark/profiles/
+---
 
-Windows: C:\Users\<YourUsername>\AppData\Roaming\Wireshark\profiles\
+## 📥 How to Use
 
-Copy the TCP_Profile folder into the profiles directory.
+1. **Download or Clone** this repository.
+2. Locate your Wireshark profiles directory:
 
-Open Wireshark → Go to Edit → Configuration Profiles → Select TCP_Profile.
+   - **Linux/macOS**: `~/.config/wireshark/profiles/`
+   - **Windows**: `C:\Users\<YourUsername>\AppData\Roaming\Wireshark\profiles\`
+
+3. Copy the `TCP_Profile` folder into the `profiles` directory.
+4. Open Wireshark → Go to `Edit` → `Configuration Profiles` → Select `TCP_Profile`.
 
 You're now ready to analyze with enhanced TCP visibility!
 
-🚀 Features Included
-✅ Customized columns: Source/Destination IPs, Ports, TCP Flags, Seq/Ack Numbers
-✅ Predefined display filters for fast troubleshooting
-✅ Helpful coloring rules to distinguish retransmissions, resets, and handshakes
+---
+
+## 🚀 Features Included
+
+✅ Customized columns: Source/Destination IPs, Ports, TCP Flags, Seq/Ack Numbers  
+✅ Predefined display filters for fast troubleshooting  
+✅ Helpful coloring rules to distinguish retransmissions, resets, and handshakes  
 ✅ Optimized layout for better visibility of TCP-specific fields
 
-👤 Who Is This For?
+---
+
+## 👤 Who Is This For?
+
 This profile is ideal for:
 
-Network Engineers diagnosing TCP performance issues
+- Network Engineers diagnosing TCP performance issues  
+- Security Analysts investigating suspicious TCP sessions  
+- Students learning TCP/IP stack behavior  
+- Anyone who wants to save time during packet analysis
 
-Security Analysts investigating suspicious TCP sessions
+---
 
-Students learning TCP/IP stack behavior
+## 🧠 Why Use This?
 
-Anyone who wants to save time during packet analysis
-
-🧠 Why Use This?
 Setting up Wireshark manually can be time-consuming. This ready-to-use profile:
 
-Reduces cognitive load
+- Reduces cognitive load  
+- Highlights what's important in TCP flows  
+- Speeds up your analysis process
 
-Highlights what's important in TCP flows
+---
 
-Speeds up your analysis process
+## 📸 Screenshot Preview
 
-🙌 Contributions
-Got improvements or suggestions? Feel free to fork and submit a pull request or open an issue.
+Here’s a preview of the TCP Wireshark Profile in action:
+
+![TCP Profile Screenshot](images/tcp-profile-preview.png)
+
+> 🔧 *Shows custom columns, color rules for flags like SYN, ACK, RST, and efficient TCP stream view for deep analysis.*
+
+---
+
+## 🌟 GitHub Badges
+
+You can add these to the top of your README if you like:
+
+```md
+![GitHub stars](https://img.shields.io/github/stars/yourusername/tcp-wireshark-profile?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/tcp-wireshark-profile?style=social)
+![MIT License](https://img.shields.io/github/license/yourusername/tcp-wireshark-profile)
