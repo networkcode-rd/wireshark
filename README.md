@@ -69,11 +69,6 @@ Here’s a preview of the TCP Wireshark Profile in action:
 
 ---
 
-## 🌟 GitHub Badges
-
-You can add these to the top of your README if you like:
-
-```md
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tcp-wireshark-profile?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tcp-wireshark-profile?style=social)
-![MIT License](https://img.shields.io/github/license/yourusername/tcp-wireshark-profile)
+## 🙌 Contributions
+Got improvements or suggestions?
+Feel free to fork this repo, submit a pull request, or open an issue.
