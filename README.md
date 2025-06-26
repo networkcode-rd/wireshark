@@ -1,14 +1,8 @@
 🛠️ TCP Profile for Wireshark – Optimized for Network & Security Engineers
 Welcome to the TCP Profile for Wireshark – a customized Wireshark configuration that makes TCP packet analysis cleaner, faster, and more insightful for network and security professionals.
 
-🔍 What is This?
-This repository contains a Wireshark profile tailored for TCP packet analysis, designed to:
 
-Highlight key TCP flags and fields.
 
-Improve readability of TCP sessions.
-
-Speed up troubleshooting by pre-configuring display filters, coloring rules, and column setups.
 
 📥 How to Use
 Download or Clone this repository.
